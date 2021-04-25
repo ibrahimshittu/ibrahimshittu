@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I am Ibrahim Shittu!
+
+A Software Developer from Nigeria, 
+
+### Stay connected
+
+📫 You can reach me on: ...
+
+= 💬 Twitter: 
+= LinkedIn:
+= My website: In progress ...
+
+
 
 <!--
 **ibrahimshittu/ibrahimshittu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
