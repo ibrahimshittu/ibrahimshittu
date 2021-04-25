@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I am Ibrahim Shittu!
 
-A self-taught Software Developer from Nigeria, currently working as a "Software Development Intern" at [The Immersive Capital](https://Immersivecapital.co/), building [LiveClasses Institute](http://liveclasses.institute/), A unique way to learn-online with cohorts & build communities via "Live Classes", to transform your career.
+A self-taught Software Developer from Nigeria, currently working as a "Software Development Intern" at [The Immersive Capital](https://Immersivecapital.co/), building [LiveClasses Institute](http://liveclasses.institute/), A unique way to learn-online & build communities via "Live Classes", to help transform your career.
 
 
 - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
