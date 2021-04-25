@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I am Ibrahim Shittu!
 
-A Software Developer from Nigeria, 
+A self-taught Software Developer from Nigeria, 
 
 
 ### Tools & Languages 
@@ -12,19 +12,25 @@ A Software Developer from Nigeria,
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/djangorestframework/djangorestframework.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### Stay connected
 
-📫 You can reach me on: ...
+💬 Ask me about anything, I am happy to help;
+You can reach me on: ...
 
-- 💬 Twitter: 
-- LinkedIn:
-- My website: In progress ...
-
+<a href="https://twitter.com/ibrahimshittu01"> 
+  <img align="left" alt="Ibrahim Shittu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ibrahimshittu/"> 
+  <img align="left" alt="Ibrahim Shittu | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://github.com/ibrahimshittu/">
+  <img align="left" alt="Ibrahim Shittu | GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
 
 
 <!--
