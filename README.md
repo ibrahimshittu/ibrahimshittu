@@ -1,5 +1,6 @@
 ![1605135473443](https://user-images.githubusercontent.com/66495788/115998940-a63a5f00-a5e1-11eb-82da-9376a656965f.jpg)
 
+---
 
 ### Hi there 👋, I am Ibrahim Shittu!
 
