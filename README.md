@@ -6,6 +6,8 @@
 A self-taught Software Developer from Nigeria, 
 
 
+- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+
 ### Tools & Languages 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -20,7 +22,8 @@ A self-taught Software Developer from Nigeria,
 ### Stay connected
 
 💬 Ask me about anything, I am happy to help;
-You can reach me on: ...
+
+-You can reach me on: ...
 
 <a href="https://twitter.com/ibrahimshittu01"> 
   <img align="left" alt="Ibrahim Shittu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
