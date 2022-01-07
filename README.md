@@ -4,12 +4,21 @@
 
 ### Hi there 👋, I am Ibrahim Shittu!
 
-A self-taught Software Developer from Nigeria.
+Welcome to my 127.0.0.1,...
 
-I am self-motivated, willing to learn, can create and Implement long-lasting solutions, and work cooperatively in a team. I enthusiastic about the future of work, which has led to feed my curiousity through self-learning various skillset to achieve set goals, and objectives.
-The learning journey never truly ends!.
+Ibrahim Shittu is a highly proactive Software Developer, who has worked with various individuals, and corporates in developing bespoke solutions, and has built trusted relationships across multiple time zones.
 
-I also speak at Conferences on what I'm passionate about, and help other individuals get started into the journey of self-actualisation.
+I am self-motivated, can create and Implement long-lasting solutions, and work cooperatively in a team. I am enthusiastic about implementing innovative methodologies, and passionate about the Future of Work, which has led me to feed my curiosity through self-learning various industry-required skills to achieve set goals and objectives.
+
+I am a multidimensional Software Developer highly skilled in the use of Python Framework FastAPI, Django, Django Rest Framework, and Flask for BackEnd Web Development, also ReactJS with JavaScript/TypeScript for FrontEnd Web Development, coupled with great interest in Artificial Intelligence/Machine Learning, Web 3.0 and the Metaverse!
+
+Of Course, The learning journey truly never ends!.
+
+I also speak at Conferences on what I'm passionate about and help other individuals get started on the journey of self-actualization.
+
+I am just your irregular guy within the space of life, aiming to be the best while pioneering a new paradigm shift.
+
+I basically build things!.
 
 
 - 📝 [Resume](https://drive.google.com/file/)
