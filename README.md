@@ -19,7 +19,7 @@ I am just your irregular guy within the space of life, aiming to be the best whi
 I basically build things!.
 
 
-- 📝 [Resume](https://drive.google.com/file/)
+- 📝 [Resume](https://drive.google.com/file/.)
 
 ### Tools & Languages 
 
