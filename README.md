@@ -6,7 +6,7 @@
 
 Welcome to my 127.0.0.1,....
 
-Ibrahim Shittu is a highly proactive Software Developer, who has worked with various individuals, and corporates in developing bespoke solutions, and has built trusted relationships across multiple time zones.
+Ibrahim Shittu is a highly proactive Software Engineer.
 
 I am self-motivated, can create and Implement long-lasting solutions, and work cooperatively in a team, which has led me to feed my curiosity through self-learning various industry-required skills to achieve set goals and objectives.
 
