@@ -20,7 +20,6 @@ I basically build things!.
 
 
 
-- 📝 [Resume](https://drive.google.com/file/d/1yi_cmYhiHVZLCXNebDN1CLDQ5qGANomJ/view?usp=drivesdk)
 
 ### Tools & Languages 
 
