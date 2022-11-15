@@ -6,11 +6,7 @@
 
 Welcome to my 127.0.0.1,....
 
-Ibrahim Shittu is a highly proactive Software Engineer.
-
-I am self-motivated, can create and Implement long-lasting solutions, and work cooperatively in a team, which has led me to feed my curiosity through self-learning various industry-required skills to achieve set goals and objectives.
-
-I am a multidimensional Software Engineer highly skilled in the use of FastAPI, Django, NodeJS/ExpressJS, Django Rest Framework, and Flask for BackEnd Web Development, also ReactJS with JavaScript/TypeScript for FrontEnd Web Development, coupled with great interest in Artificial Intelligence/Machine Learning, Web 3.0 and the Metaverse!
+I am a highly proactive Software Engineer highly skilled in the use of FastAPI, Django, NodeJS/ExpressJS, Django Rest Framework, and Flask for BackEnd Web Development, also ReactJS, NextJS with JavaScript/TypeScript for FrontEnd Web Development, coupled with great interest in Artificial Intelligence/Machine Learning, Web 3.0 and the Metaverse!
 
 Of Course, The learning journey truly never ends!.
 
