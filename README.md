@@ -6,7 +6,7 @@
 
 Welcome to my 127.0.0.1,....
 
-I am a highly proactive Software Engineer highly skilled in the use of FastAPI, Django, NodeJS/ExpressJS, Django Rest Framework, and Flask for BackEnd Web Development, also ReactJS, NextJS with JavaScript/TypeScript for FrontEnd Web Development, coupled with great interest in Artificial Intelligence/Machine Learning.
+I am a highly proactive Software Engineer, skilled in the use of FastAPI, Django, NodeJS/ExpressJS, Django Rest Framework, and Flask for BackEnd Web Development, also ReactJS, NextJS with JavaScript/TypeScript for FrontEnd Web Development, coupled with great interest in Artificial Intelligence/Machine Learning.
 
 I have solid experience working in small teams at startups, and large teams at enterprise corporations. I am excellent at translating business ideas and product requirements into long-lasting solutions, coupled with great understanding of scrum, agile methodologies and the importance of providing clear, consistent feedback, and commmunication.
 
