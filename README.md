@@ -10,7 +10,7 @@ As a proactive Software Engineer, I am skilled in the use of FastAPI, NodeJS/Exp
 
 With extensive experience working in small and large teams at startups and enterprise corporations, I have honed my ability to translate business ideas and product requirements into robust and lasting solutions. I have a deep understanding of scrum and agile methodologies, and value the importance of providing clear, consistent feedback and communication.
 
-As a lifelong learner, I am constantly seeking to acquire new knowledge and skills to improve my craft. I am passionate about driving a paradigm shift and being at the forefront of innovative solutions.
+As a lifelong learner, I am constantly seeking to acquire more knowledge and skills to improve my craft. I am passionate about driving a paradigm shift and being at the forefront of innovative solutions.
 
 In short, I am committed to creating solutions that truly make a difference!
 
