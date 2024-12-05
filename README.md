@@ -2,13 +2,13 @@
 
 ---
 
-### Hello World! 👋,
+### 🌍 Hello World! 👋,
 
-Welcome to my 127.0.0.1,....
+Welcome to my little corner of the internet (127.0.0.1)! 🚀,
 
-As a proactive Software Engineer, I am skilled in the use of FastAPI, NodeJS/ExpressJS, and Django Rest Framework for Backend Software Development, as well as ReactJS/NextJS with JavaScript and TypeScript for Frontend Software Development. Additionally, my interests extend to the field of Artificial Intelligence/Machine Learning.
+I'm Ibrahim Shittu, a passionate Software Engineer 🛠️  skilled in the use of FastAPI, NodeJS/ExpressJS, and Django Rest Framework for Backend Software Development, as well as ReactJS/NextJS with JavaScript and TypeScript for Frontend Software Development. Additionally, my interests extend to the field of Artificial Intelligence/Machine Learning.
 
-With extensive experience working in small and large teams at startups and enterprise corporations, I have honed my ability to translate business ideas and product requirements into robust and lasting solutions. I have a deep understanding of scrum and agile methodologies, and value the importance of providing clear, consistent feedback and communication.
+💼 With experience spanning startups to enterprise organizations, I have honed my ability to translate business ideas and product requirements into robust and lasting solutions. I have a deep understanding of scrum and agile methodologies, and value the importance of providing clear, consistent feedback and communication.
 
 As a lifelong learner, I am constantly seeking to acquire more knowledge and skills to improve my craft. I am passionate about driving a paradigm shift and being at the forefront of innovative solutions.
 
@@ -17,17 +17,26 @@ In short, I am committed to creating solutions that truly make a difference!
 
 ### Tools & Languages 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+### Tools & Languages
+
+<code><img height="30" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"></code>
+<code><img height="30" src="https://img.icons8.com/officel/80/react.png" alt="React"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"></code>
+<code><img height="30" src="https://img.icons8.com/ios-filled/50/django.png" alt="Django"></code>
+<code><img height="30" src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"></code>
+
+
 
 ### Stay connected
 
