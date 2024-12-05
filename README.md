@@ -1,4 +1,4 @@
-![DdzltY0UwAE4Xr0 (1)](https://github.com/user-attachments/assets/a10c53a9-20f6-4c71-bf3f-908e17eeef46)
+<img width="1114" alt="Screenshot 2024-12-05 at 20 10 52" src="https://github.com/user-attachments/assets/4e5fff92-2d72-45dc-86dd-f228463fae95">
 
 ---
 
@@ -6,7 +6,7 @@
 
 Welcome to my little corner of the internet (127.0.0.1)! 🚀,
 
-I'm Ibrahim Shittu, a passionate Software Engineer 🛠️  with a strong expertise in web and mobile development, leveraging a wide range of tools, frameworks, and technologies. My passion also extends to Artificial Intelligence and Machine Learning, where I continuously explore innovative ways to integrate these technologies into modern solutions.
+I'm **Ibrahim Shittu**, a passionate Software Engineer 🛠️  with a strong expertise in web and mobile development, leveraging a wide range of tools, frameworks, and technologies. My passion also extends to Artificial Intelligence and Machine Learning, where I continuously explore innovative ways to integrate these technologies into modern solutions.
 
 💼 With experience spanning startups to enterprise organizations, I have honed my ability to translate business ideas and product requirements into robust and lasting solutions. I have a deep understanding of scrum and agile methodologies, and value the importance of providing clear, consistent feedback and communication.
 
@@ -41,19 +41,24 @@ In short, I am committed to creating solutions that truly make a difference!
 
 ### Stay connected
 
-💬 Ask me about anything, I am happy to help;
+- 🔭 I’m currently working on [Fabrio](https://www.fabriodesign.com/), an innovative EdTech platform that delivers structured CAD courses with real-time feedback and assessment features, currently adopted by prestigious institutions such as University College London and Imperial College London, Fabrio is transforming how technical education is delivered at scale.
 
--You can reach me on: ...
+- 💬 Ask me about building scalable web and mobile applications, creating intuitive user experiences, or tackling real-world challenges with technology.
 
-<a href="https://twitter.com/ibrahimshittu01" target="_blank"> 
-  <img align="left" alt="Ibrahim Shittu | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
-</a>
+- ⚡ Fun fact: I studied civil engineering but discovered my true passion for technology and problem-solving, which led me to transition into software engineering. Now, instead of building bridges, I build scalable systems and innovative products! P.S I haven't looked back since! 😉
+
+- 📫 You can reach me on: 
+
 <a href="https://www.linkedin.com/in/ibrahimshittu/" target="_blank"> 
   <img align="left" alt="Ibrahim Shittu | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="https://twitter.com/ibrahimshittu01" target="_blank"> 
+  <img align="left" alt="Ibrahim Shittu | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
 </a>
 <a href="https://github.com/ibrahimshittu/" target="_blank">
   <img align="left" alt="Ibrahim Shittu | GitHub" width="30px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
 </a>
+
 
 
 
