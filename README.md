@@ -1,49 +1,32 @@
-# Hi, I'm Ibrahim Shittu
+<img width="1114" src="https://github.com/user-attachments/assets/4e5fff92-2d72-45dc-86dd-f228463fae95" alt="Steve Jobs beside the words: The people who are crazy enough to think they can change the world are the ones who do.">
 
-**Software engineer · AI systems, web & mobile · Lagos, Nigeria**
+# Ibrahim Shittu
 
-I turn early product ideas into software people can rely on. My work spans AI tools for legal teams, CAD education platforms, and mobile banking.
+**Software engineer. Building across AI, web, and mobile.**
 
-I'm a **founding engineer at Finiti Legal**, building AI systems for capital markets compliance. Previously, I was the first engineering hire at Fabrio and led frontend engineering for Crust Microfinance Bank at Thrive Agric.
+I'm based in Lagos, working with teams around the world to take products from the first idea to everyday use. I enjoy the whole process: making sense of a problem, building the system behind it, and getting the small details right.
 
-[Portfolio](https://ibrahimshittu.com) · [Writing](https://ibrahimshittu.com/blog) · [LinkedIn](https://www.linkedin.com/in/ibrahimshittu/) · [Email](mailto:ibshittu01@gmail.com)
+I studied civil engineering before finding my way into software. These days, my work brings together product engineering and AI agents.
 
-## What I've built
+### Work
 
-- **[Finiti Legal](https://ibrahimshittu.com/projects/finiti)** — Multi-agent workflows for reviewing filings, comparing disclosures, and preparing regulatory documents with humans in the loop. My work brings together retrieval, typed tools, and the interfaces legal teams use every day.
-- **[Fabrio](https://ibrahimshittu.com/projects/fabrio)** — As the first engineering hire and later lead engineer, I led the platform rebuild for automated CAD assessment, supporting institutions including UCL and Imperial College London.
-- **[Crust Microfinance Bank](https://ibrahimshittu.com/projects/crust-mobile-bank)** — Led frontend engineering for the mobile apps and admin tools at Thrive Agric (YC W19). The product reached **73,000+ customers** and **$1M+ in transaction volume** in its first year.
+- **[Finiti Legal](https://ibrahimshittu.com/projects/finiti)** · Founding engineer building AI tools for capital markets compliance, with human review built into the workflow.
+- **[Fabrio](https://ibrahimshittu.com/projects/fabrio)** · First engineering hire, then lead engineer. Rebuilt the CAD education platform used by UCL and Imperial College London.
+- **[Thrive Agric](https://ibrahimshittu.com/projects/crust-mobile-bank)** · Led frontend engineering for Crust's mobile banking apps and internal tools.
 
-[Explore my work →](https://ibrahimshittu.com/projects)
+### Building & exploring
 
-## On my GitHub
+I'm interested in agents that use tools well, answers grounded in sources, and software that stays simple as it grows.
 
-A few projects you can explore:
+Two projects to explore: **[Tunnel AI](https://github.com/ibrahimshittu/tunnel-ai)**, which turns plain-English instructions into frontend tests, and **[Shakespeare RAG](https://github.com/ibrahimshittu/shakespeare-rag)**, for exploring Shakespeare's works through questions with cited answers.
 
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[Tunnel AI](https://github.com/ibrahimshittu/tunnel-ai)** | Turns plain-English instructions into Playwright tests, with agents for planning, execution, validation, and repair | Python, LangGraph, Playwright, Browserbase |
-| **[SignalOS](https://github.com/ibrahimshittu/signalos)** | A personal investment studio for connected portfolios, market reviews, and proposals that require user approval | Expo, FastAPI, Supabase |
-| **[Shakespeare RAG](https://github.com/ibrahimshittu/shakespeare-rag)** | Explores Shakespeare's works through questions and streamed answers with source citations | Python, FastAPI, LangChain, Next.js |
+### Toolkit
 
-## Tools I work with
-
-- **AI & backend:** Python, FastAPI, Pydantic AI, LangGraph, LangChain, Node.js
-- **Web & mobile:** TypeScript, React, Next.js, React Native, Expo
-- **Data & infrastructure:** PostgreSQL, GraphQL, AWS, Azure, Docker
-
-I'm especially interested in making AI systems useful beyond the demo: reliable tool use, grounded answers, evaluation, and clear points for human review.
-
-## Notes from building
-
-I write about the engineering decisions, tradeoffs, and lessons behind the work.
-
-- [Building Fabrio: from first engineering hire to university adoption](https://ibrahimshittu.com/blog/scaling-cad-education-at-fabrio)
-- [Running LLMs locally with Docker Model Runner](https://ibrahimshittu.com/blog/running-llms-locally-with-docker-model-runner)
-- [From civil engineering to software development](https://ibrahimshittu.com/blog/from-civil-engineering-to-software-development)
+**Languages** · Python, TypeScript, JavaScript<br>
+**Products** · React, Next.js, React Native, FastAPI<br>
+**AI** · Pydantic AI, LangGraph, LangChain<br>
+**Infrastructure** · PostgreSQL, AWS, Azure, Docker
 
 ---
 
-I studied civil engineering at the University of Ilorin before moving into software. I still enjoy the same part of engineering: understanding how things fit together, then building something that works.
-
-Want to talk about AI agents, developer tools, or taking a product from idea to production? **[Get in touch](mailto:ibshittu01@gmail.com)**.
+[Portfolio](https://ibrahimshittu.com) · [Writing](https://ibrahimshittu.com/blog) · [LinkedIn](https://www.linkedin.com/in/ibrahimshittu/) · [X](https://x.com/ibrahimshittu01) · [Email](mailto:ibshittu01@gmail.com)
