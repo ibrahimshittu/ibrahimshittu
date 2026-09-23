@@ -1,79 +1,49 @@
-<img width="1114" alt="Screenshot 2024-12-05 at 20 10 52" src="https://github.com/user-attachments/assets/4e5fff92-2d72-45dc-86dd-f228463fae95">
+# Hi, I'm Ibrahim Shittu
+
+**Software engineer · AI systems, web & mobile · Lagos, Nigeria**
+
+I turn early product ideas into software people can rely on. My work spans AI tools for legal teams, CAD education platforms, and mobile banking.
+
+I'm a **founding engineer at Finiti Legal**, building AI systems for capital markets compliance. Previously, I was the first engineering hire at Fabrio and led frontend engineering for Crust Microfinance Bank at Thrive Agric.
+
+[Portfolio](https://ibrahimshittu.com) · [Writing](https://ibrahimshittu.com/blog) · [LinkedIn](https://www.linkedin.com/in/ibrahimshittu/) · [Email](mailto:ibshittu01@gmail.com)
+
+## What I've built
+
+- **[Finiti Legal](https://ibrahimshittu.com/projects/finiti)** — Multi-agent workflows for reviewing filings, comparing disclosures, and preparing regulatory documents with humans in the loop. My work brings together retrieval, typed tools, and the interfaces legal teams use every day.
+- **[Fabrio](https://ibrahimshittu.com/projects/fabrio)** — As the first engineering hire and later lead engineer, I led the platform rebuild for automated CAD assessment, supporting institutions including UCL and Imperial College London.
+- **[Crust Microfinance Bank](https://ibrahimshittu.com/projects/crust-mobile-bank)** — Led frontend engineering for the mobile apps and admin tools at Thrive Agric (YC W19). The product reached **73,000+ customers** and **$1M+ in transaction volume** in its first year.
+
+[Explore my work →](https://ibrahimshittu.com/projects)
+
+## On my GitHub
+
+A few projects you can explore:
+
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **[Tunnel AI](https://github.com/ibrahimshittu/tunnel-ai)** | Turns plain-English instructions into Playwright tests, with agents for planning, execution, validation, and repair | Python, LangGraph, Playwright, Browserbase |
+| **[SignalOS](https://github.com/ibrahimshittu/signalos)** | A personal investment studio for connected portfolios, market reviews, and proposals that require user approval | Expo, FastAPI, Supabase |
+| **[Shakespeare RAG](https://github.com/ibrahimshittu/shakespeare-rag)** | Explores Shakespeare's works through questions and streamed answers with source citations | Python, FastAPI, LangChain, Next.js |
+
+## Tools I work with
+
+- **AI & backend:** Python, FastAPI, Pydantic AI, LangGraph, LangChain, Node.js
+- **Web & mobile:** TypeScript, React, Next.js, React Native, Expo
+- **Data & infrastructure:** PostgreSQL, GraphQL, AWS, Azure, Docker
+
+I'm especially interested in making AI systems useful beyond the demo: reliable tool use, grounded answers, evaluation, and clear points for human review.
+
+## Notes from building
+
+I write about the engineering decisions, tradeoffs, and lessons behind the work.
+
+- [Building Fabrio: from first engineering hire to university adoption](https://ibrahimshittu.com/blog/scaling-cad-education-at-fabrio)
+- [Running LLMs locally with Docker Model Runner](https://ibrahimshittu.com/blog/running-llms-locally-with-docker-model-runner)
+- [From civil engineering to software development](https://ibrahimshittu.com/blog/from-civil-engineering-to-software-development)
 
 ---
 
-### 🌍 Hello World! 👋,
+I studied civil engineering at the University of Ilorin before moving into software. I still enjoy the same part of engineering: understanding how things fit together, then building something that works.
 
-Welcome to my little corner of the internet (127.0.0.1)! 🚀✨
-
-I'm **Ibrahim Shittu**, a passionate Software Engineer 🛠️💻 with strong expertise in web and mobile development, leveraging a wide range of tools, frameworks, and technologies. My passion also extends to Artificial Intelligence and Machine Learning, where I continuously explore innovative ways to integrate these technologies into modern solutions.
-
-With experience spanning startups to enterprise organizations, I have honed my ability to translate business ideas 💡 and product requirements into robust and lasting solutions. I have a deep understanding of Scrum and Agile methodologies, and value the importance of providing clear, consistent feedback, and effective communication.
-
-As a lifelong learner 📚🧑‍💻, I am constantly seeking to acquire more knowledge and skills to improve my craft. I am passionate about driving a paradigm shift and being at the forefront of innovative solutions 🚀.
-
-In short, I am committed to creating solutions that truly make a difference! 🌟✨
-
-
-### Tools & Languages 
-
-<code><img height="30" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"></code>
-<code><img height="30" src="https://img.icons8.com/officel/80/react.png" alt="React"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"></code>
-<code><img height="30" src="https://img.icons8.com/ios-filled/50/django.png" alt="Django"></code>
-<code><img height="30" src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"></code>
-
-
-
-
-### Stay connected
-
-- 🔭 I’m recently worked on [Fabrio](https://www.fabriodesign.com/), an innovative EdTech platform 🎓✨ that delivers structured CAD courses 🖥️📐 with real-time feedback and assessment features. Currently adopted by prestigious institutions such as University College London and Imperial College London, Fabrio is transforming how technical education is delivered at scale 🌍📈.
-
-- 💬 Ask me about building scalable web and mobile applications, AI/ML, creating intuitive user experiences, or tackling real-world challenges with technology.
-
-- ⚡ Fun fact: I studied civil engineering 🏗️ but discovered my true passion for technology and problem-solving 🧩, which led me to transition into software engineering 💻. Now, instead of building bridges 🌉, I build scalable systems and innovative products 🚀! P.S. I haven’t looked back since! 😉
-
-- 📫 You can reach me on:
-
-<a href="https://www.linkedin.com/in/ibrahimshittu/" target="_blank"> 
-  <img align="left" alt="Ibrahim Shittu | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-<a href="https://twitter.com/ibrahimshittu01" target="_blank"> 
-  <img align="left" alt="Ibrahim Shittu | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
-</a>
-<a href="https://github.com/ibrahimshittu/" target="_blank">
-  <img align="left" alt="Ibrahim Shittu | GitHub" width="30px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
-</a>
-
-
-
-
-<!--
-, currently working as a "Software Development Intern" at [The Immersive Capital](https://Immersivecapital.co/), building [LiveClasses Institute](http://liveclasses.institute/), A unique way to learn-online, and build communities via "Live Classes", to help transform your career
-**ibrahimshittu/ibrahimshittu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to talk about AI agents, developer tools, or taking a product from idea to production? **[Get in touch](mailto:ibshittu01@gmail.com)**.
