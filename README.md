@@ -36,25 +36,47 @@ For AI systems, that means grounded answers, reliable tool use, evaluation, and 
   <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python">
   <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript">
   <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" title="HTML">
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" title="CSS">
 </p>
 
-**Web, mobile & APIs**
+**Web & mobile**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React / React Native" title="React / React Native">
   <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js">
+  <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue.js" title="Vue.js">
+  <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" title="Redux">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS">
+</p>
+
+**Backend & APIs**
+
+<p>
   <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" title="FastAPI">
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" title="Django">
+  <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" title="Flask">
   <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" title="GraphQL">
 </p>
 
-**Data & infrastructure**
+**Data & platforms**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" title="Firebase">
+  <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" title="Supabase">
+</p>
+
+**Cloud & developer tools**
+
+<p>
   <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" title="AWS">
   <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" title="Azure">
   <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" title="Kubernetes">
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" title="Linux">
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git">
 </p>
 
 **AI systems**
