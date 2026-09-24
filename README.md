@@ -1,14 +1,14 @@
 <img width="1114" src="https://github.com/user-attachments/assets/4e5fff92-2d72-45dc-86dd-f228463fae95" alt="Steve Jobs beside the words: The people who are crazy enough to think they can change the world are the ones who do.">
 
-# Ibrahim Shittu
+# Hi, I am Ibrahim Shittu
 
-**Senior Software Engineer · AI Systems, Web & Mobile**
+**Senior Software Engineer · AI/ML, Web & Mobile**
 
 I build software from the first product decisions through to production: the architecture, services, interfaces, and infrastructure that make a product work. My experience spans capital markets compliance, engineering education, and financial services, with roles as a founding engineer, first engineering hire, and engineering lead.
 
 I'm currently a founding engineer at **Finiti Legal**, building AI systems for capital markets compliance. My background in civil engineering informs how I approach software: understand the constraints, establish sound foundations, and pay attention to how the parts work together.
 
-## Engineering experience
+## Selected experience
 
 **[Finiti Legal](https://ibrahimshittu.com/projects/finiti)** · Founding Software Engineer
 
