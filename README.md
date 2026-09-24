@@ -33,11 +33,46 @@ For AI systems, that means grounded answers, reliable tool use, evaluation, and 
 
 ## Technical toolkit
 
-**Languages** · Python, TypeScript, JavaScript<br>
-**Web & mobile** · React, Next.js, React Native<br>
-**Backend & APIs** · FastAPI, Node.js, GraphQL<br>
-**AI systems** · Pydantic AI, LangGraph, LangChain<br>
-**Data & infrastructure** · PostgreSQL, AWS, Azure, Docker
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python">
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript">
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript">
+</p>
+
+**Web, mobile & APIs**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React / React Native" title="React / React Native">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" title="FastAPI">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" title="GraphQL">
+</p>
+
+**Data & infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" title="AWS">
+  <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" title="Azure">
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker">
+</p>
+
+**AI systems**
+
+![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-2D3748?style=flat&logo=pydantic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D3748?style=flat&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2D3748?style=flat&logo=langchain&logoColor=white)
+
+## Latest writing
+
+- [Which Tool Should Run Next? Jev vs. GPT, Claude, Gemini, and DeepSeek](https://ibrahimshittu.com/blog/jev-vs-gpt-claude-gemini-deepseek) · Sep 2026
+- [Running LLMs Locally with Docker Model Runner](https://ibrahimshittu.com/blog/running-llms-locally-with-docker-model-runner) · Jan 2026
+- [Judging at LegalHack 2025: When Blockchain Meets Legal Technology](https://ibrahimshittu.com/blog/judging-legalhack-2025) · Dec 2025
+
+[More writing →](https://ibrahimshittu.com/blog)
 
 ---
 
