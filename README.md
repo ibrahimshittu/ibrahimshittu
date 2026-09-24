@@ -2,29 +2,42 @@
 
 # Ibrahim Shittu
 
-**Software engineer. Building across AI, web, and mobile.**
+**Senior Software Engineer · AI Systems, Web & Mobile**
 
-I'm a founding engineer at **Finiti Legal**, building AI systems for capital markets compliance. Before that, I helped build products for engineering classrooms and everyday banking.
+I build software from the first product decisions through to production: the architecture, services, interfaces, and infrastructure that make a product work. My experience spans capital markets compliance, engineering education, and financial services, with roles as a founding engineer, first engineering hire, and engineering lead.
 
-My background is in civil engineering. In software, I care about the same things: sound foundations, thoughtful design, and how the finished thing works for the people using it.
+I'm currently a founding engineer at **Finiti Legal**, building AI systems for capital markets compliance. My background in civil engineering informs how I approach software: understand the constraints, establish sound foundations, and pay attention to how the parts work together.
 
-## Selected work
+## Engineering experience
 
-- **[Finiti Legal](https://ibrahimshittu.com/projects/finiti)** · Founding engineer building AI tools for capital markets compliance, with human review built into the workflow.
-- **[Fabrio](https://ibrahimshittu.com/projects/fabrio)** · First engineering hire, then lead engineer. Rebuilt the CAD education platform used by UCL and Imperial College London.
-- **[Thrive Agric](https://ibrahimshittu.com/projects/crust-mobile-bank)** · Led frontend engineering for Crust's mobile banking apps and internal tools.
+### [Finiti Legal](https://ibrahimshittu.com/projects/finiti)
+**Founding Software Engineer**
 
-## Side projects
+Building AI workflows that help legal teams review regulatory filings, compare disclosures, and prepare documents with human oversight. The work combines multi-agent orchestration, retrieval over SEC filings, typed tool interfaces, and integrations into the applications legal teams already use.
 
-- **[Tunnel AI](https://github.com/ibrahimshittu/tunnel-ai)** · Plain-English instructions to automated frontend tests, with agents that plan, run, and repair them.
-- **[Shakespeare RAG](https://github.com/ibrahimshittu/shakespeare-rag)** · Questions about Shakespeare's works, answered with references to the source text.
+### [Fabrio](https://ibrahimshittu.com/projects/fabrio)
+**First Engineering Hire → Lead Software Engineer**
 
-## Toolkit
+Led the platform rebuild for CAD education and automated assessment, supporting institutions including UCL and Imperial College London. Built with TypeScript, Next.js, GraphQL, and AWS serverless infrastructure, the platform brings together coursework, assessment, feedback, and progress tracking for students and educators.
+
+### [Crust Microfinance Bank · Thrive Agric](https://ibrahimshittu.com/projects/crust-mobile-bank)
+**Engineering Lead**
+
+Led engineering for Crust's mobile banking apps and internal tools at Thrive Agric (YC W19). The work spanned iOS, Android, and the systems bank operators used to support customers. The product reached more than 73,000 customers and processed over $1 million in transactions in its first year.
+
+## How I work
+
+I care about clear architecture, readable code, and deliberate tradeoffs. I prefer the simplest implementation that meets the requirement, with attention to reliability, performance, and the details people encounter every day.
+
+For AI systems, that means grounded answers, reliable tool use, evaluation, and explicit points for human review. Across the stack, it means building software a team can understand, operate, and improve.
+
+## Technical toolkit
 
 **Languages** · Python, TypeScript, JavaScript<br>
-**Web & backend** · React, Next.js, React Native, FastAPI<br>
-**AI** · Pydantic AI, LangGraph, LangChain<br>
-**Infrastructure** · PostgreSQL, AWS, Azure, Docker
+**Web & mobile** · React, Next.js, React Native<br>
+**Backend & APIs** · FastAPI, Node.js, GraphQL<br>
+**AI systems** · Pydantic AI, LangGraph, LangChain<br>
+**Data & infrastructure** · PostgreSQL, AWS, Azure, Docker
 
 ---
 
