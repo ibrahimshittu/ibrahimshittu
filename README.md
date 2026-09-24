@@ -20,7 +20,7 @@ Led the platform rebuild for CAD education and automated assessment, supporting 
 
 **[Thrive Agric (YC W19)](https://ibrahimshittu.com/projects/crust-mobile-bank)** · Engineering Lead
 
-Led engineering for Crust's mobile banking apps and internal tools. The work spanned iOS, Android, and the systems bank operators used to support customers. The product reached more than 73,000 customers and processed over $1 million in transactions in its first year.
+Led engineering for Crust's mobile banking apps and internal tools. The work spanned iOS, Android, and the systems bank operators used to support customers. The product grew to serve hundreds of thousands of users and processed seven-figure transaction volume in US dollars.
 
 ## How I work
 
@@ -55,6 +55,7 @@ For AI systems, that means grounded answers, reliable tool use, evaluation, and 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" title="FastAPI">
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" title="Express">
   <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" title="Django">
   <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" title="Flask">
   <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" title="GraphQL">
@@ -64,6 +65,7 @@ For AI systems, that means grounded answers, reliable tool use, evaluation, and 
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" title="MongoDB">
   <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" title="Firebase">
   <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" title="Supabase">
 </p>
@@ -79,11 +81,17 @@ For AI systems, that means grounded answers, reliable tool use, evaluation, and 
   <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git">
 </p>
 
-**AI systems**
+**AI & machine learning**
 
 ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-2D3748?style=flat&logo=pydantic&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D3748?style=flat&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2D3748?style=flat&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2D3748?style=flat&logo=tensorflow&logoColor=white)
+
+**Mobile & testing**
+
+![Expo](https://img.shields.io/badge/Expo-2D3748?style=flat&logo=expo&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2D3748?style=flat)
 
 ## Latest writing
 
