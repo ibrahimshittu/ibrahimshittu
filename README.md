@@ -10,20 +10,17 @@ I'm currently a founding engineer at **Finiti Legal**, building AI systems for c
 
 ## Engineering experience
 
-### [Finiti Legal](https://ibrahimshittu.com/projects/finiti)
-**Founding Software Engineer**
+**[Finiti Legal](https://ibrahimshittu.com/projects/finiti)** · Founding Software Engineer
 
 Building AI workflows that help legal teams review regulatory filings, compare disclosures, and prepare documents with human oversight. The work combines multi-agent orchestration, retrieval over SEC filings, typed tool interfaces, and integrations into the applications legal teams already use.
 
-### [Fabrio](https://ibrahimshittu.com/projects/fabrio)
-**First Engineering Hire → Lead Software Engineer**
+**[Fabrio](https://ibrahimshittu.com/projects/fabrio)** · First Engineering Hire → Lead Software Engineer
 
 Led the platform rebuild for CAD education and automated assessment, supporting institutions including UCL and Imperial College London. Built with TypeScript, Next.js, GraphQL, and AWS serverless infrastructure, the platform brings together coursework, assessment, feedback, and progress tracking for students and educators.
 
-### [Crust Microfinance Bank · Thrive Agric](https://ibrahimshittu.com/projects/crust-mobile-bank)
-**Engineering Lead**
+**[Thrive Agric (YC W19)](https://ibrahimshittu.com/projects/crust-mobile-bank)** · Engineering Lead
 
-Led engineering for Crust's mobile banking apps and internal tools at Thrive Agric (YC W19). The work spanned iOS, Android, and the systems bank operators used to support customers. The product reached more than 73,000 customers and processed over $1 million in transactions in its first year.
+Led engineering for Crust's mobile banking apps and internal tools. The work spanned iOS, Android, and the systems bank operators used to support customers. The product reached more than 73,000 customers and processed over $1 million in transactions in its first year.
 
 ## How I work
 
